@@ -1,6 +1,6 @@
 {
-    "name": "spatie/async",
-    "description": "Asynchronous and parallel PHP with the PCNTL extension",
+    "name": "modstore/async",
+    "description": "Forked from spatie/async",
     "keywords": [
         "spatie",
         "async"
